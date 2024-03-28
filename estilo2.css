@@ -72,6 +72,9 @@ footer {
 
 .logo {
   margin-left: 60px;
+  height: auto;
+  max-width: 100px;
+  width: 100%; 
 }
 
 .foto {
